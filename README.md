@@ -1,2 +1,3 @@
-# taskManager
-Shows running services / processes on the z/OS Sysplex Served by Zowe
+# Task Manager
+Shows running address spaces and processes on the z/OS system served by Zowe.
+   
